@@ -1,49 +1,49 @@
+<svg width="100%" height="220" viewBox="0 0 854 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
 
-      <svg
-        width="854"
-        height="220"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 220"
-      >
-        <style>
-      .text {   font-size: 60px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#3b82f6"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#000000;" stroke="#none" stroke-width="1" >Bollepalli Abhilash</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="62%" class="desc" style="fill:#000000;">Data & AI Engineer | Generative AI & ML Builder</text>
-      </svg>
-    
+  <!-- Background Card -->
+  <rect width="854" height="220" rx="16" fill="url(#bgGradient)"/>
+  <rect width="854" height="220" rx="16" stroke="#334155" stroke-width="1.5" fill="none"/>
+
+  <!-- Subtle Cyber Waves -->
+  <path d="M0 160 C 200 130, 350 200, 500 165 C 650 130, 750 170, 854 150 L 854 220 L 0 220 Z" fill="url(#waveGradient)"/>
+  <path d="M0 175 C 220 150, 400 210, 600 175 C 720 155, 800 185, 854 170 L 854 220 L 0 220 Z" fill="#38bdf8" fill-opacity="0.2"/>
+
+  <!-- Floating Tech Decors -->
+  <circle cx="80" cy="55" r="4" fill="#60a5fa" opacity="0.6"/>
+  <circle cx="120" cy="45" r="2.5" fill="#a78bfa" opacity="0.5"/>
+  <circle cx="760" cy="55" r="3.5" fill="#38bdf8" opacity="0.7"/>
+  <circle cx="790" cy="85" r="2" fill="#818cf8" opacity="0.4"/>
+
+  <!-- Terminal Dot Header Indicator -->
+  <circle cx="35" cy="32" r="5.5" fill="#ef4444"/>
+  <circle cx="52" cy="32" r="5.5" fill="#f59e0b"/>
+  <circle cx="69" cy="32" r="5.5" fill="#10b981"/>
+  <text x="90" y="36" fill="#64748b" font-family="'Segoe UI', -apple-system, monospace" font-size="13" font-weight="600">abhilash@neuro-system ~ %</text>
+
+  <!-- Main Headline -->
+  <text x="50%" y="108" text-anchor="middle" fill="url(#textGradient)" font-family="'Segoe UI', -apple-system, sans-serif" font-size="46" font-weight="800" letter-spacing="2">
+    BOLLEPALLI ABHILASH
+  </text>
+
+  <!-- Tagline Badges / Subtitle -->
+  <text x="50%" y="148" text-anchor="middle" fill="#94a3b8" font-family="'Segoe UI', -apple-system, sans-serif" font-size="18" font-weight="500" letter-spacing="1">
+    Data &amp; AI Engineer  |  Machine Learning  |  GenAI &amp; Automation
+  </text>
+</svg>

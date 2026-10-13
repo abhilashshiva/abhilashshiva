@@ -1,18 +1,18 @@
 <a name="top"></a>
 
-<!-- HEADER WITH DYNAMIC ANIMATION & CAPSULE -->
+<!-- HERO BANNER (Hosted directly in repository for 100% reliable rendering) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=220&section=header&text=Abhilash%20Bollepalli&fontSize=62&fontAlignY=38&animation=twinkling&desc=Data%20%26%20AI%20Engineer%20%7C%20Machine%20Learning%20%26%20GenAI%20Builder&descSize=20&descAlignY=62" alt="Abhilash Bollepalli Banner" width="100%" />
+  <img src="assets/header.svg" alt="Bollepalli Abhilash Banner" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING SVG SUBTITLE -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=61AFEF&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Turning+raw+data+into+actionable+intelligence.;Architecting+autonomous+AI+agents+%26+scalable+pipelines.;Building+end-to-end+GenAI+products+that+deliver+impact." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Turning+raw+data+into+actionable+intelligence.;Architecting+autonomous+AI+agents+%26+scalable+pipelines.;Building+end-to-end+GenAI+products+that+deliver+impact." alt="Typing SVG" />
   </a>
 </div>
 
-<!-- QUICK NAV & PROFILE VIEWS -->
+<!-- QUICK NAV & PROFILE VIEWS BADGES -->
 <p align="center">
   <code>Abhilash@GitHub:~$ cat README.md</code>
   <br/><br/>
@@ -25,8 +25,13 @@
   <a href="#connect"><b>Contact</b></a>
 </p>
 
+<!-- DUAL BACKUP PROFILE VIEWS COUNTER (Reliable Markdown Badges) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilashshiva&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhilashshiva&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10b981?style=flat-square&logo=target" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 <!-- SOCIAL & CONTACT BADGES -->
@@ -43,10 +48,6 @@
   <a href="tel:+919030422529">
     <img src="https://img.shields.io/badge/Phone-+91_9030422529-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
-  <br/>
-  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI%20Engineering-blue?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square" alt="Status" />
 </div>
 
 <br/>
@@ -223,5 +224,5 @@ I'm always excited to discuss **Data Engineering pipelines**, **Autonomous AI Ag
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=100&section=footer" width="100%" />
+  <img src="assets/footer.svg" width="100%" alt="Footer Wave" />
 </p>

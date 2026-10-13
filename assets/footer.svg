@@ -1,49 +1,11 @@
-
-      <svg
-        width="854"
-        height="100"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 100"
-      >
-        <style>
-      .text {   font-size: 70px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } path {   transform: rotate(180deg);   transform-origin: 50% 50%;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#3b82f6"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 50) scale(1, 1) translate(-427, -50)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 20Q 213.5 60 427 30T 854 55L 854 0 Z;M0 0L 0 45Q 213.5 60 427 40T 854 30L 854 0 Z;M0 0L 0 65Q 213.5 35 427 65T 854 30L 854 0 Z;M0 0L 0 20Q 213.5 60 427 30T 854 55L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 35Q 213.5 80 427 50T 854 60L 854 0 Z;M0 0L 0 50Q 213.5 20 427 20T 854 40L 854 0 Z;M0 0L 0 45Q 213.5 25 427 50T 854 65L 854 0 Z;M0 0L 0 35Q 213.5 80 427 50T 854 60L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         
-        
-      </svg>
-    
+<svg width="100%" height="80" viewBox="0 0 854 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.5"/>
+      <stop offset="50%" stop-color="#7c3aed" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.5"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 40 C 200 10, 427 60, 640 20 C 740 5, 800 30, 854 25 L 854 80 L 0 80 Z" fill="url(#footerWave)"/>
+  <path d="M0 55 C 220 35, 450 70, 680 40 C 760 30, 810 45, 854 40 L 854 80 L 0 80 Z" fill="#38bdf8" fill-opacity="0.2"/>
+</svg>

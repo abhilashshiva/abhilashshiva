@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<!-- QUICK NAV & PROFILE VIEWS BADGES -->
+<!-- QUICK NAV & STATUS BADGES -->
 <p align="center">
   <code>Abhilash@GitHub:~$ cat README.md</code>
   <br/><br/>
@@ -25,11 +25,10 @@
   <a href="#connect"><b>Contact</b></a>
 </p>
 
-<!-- DUAL BACKUP PROFILE VIEWS COUNTER (Reliable Markdown Badges) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhilashshiva&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10b981?style=flat-square&logo=target" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI%20Engineering-blue?style=flat-square" alt="Focus" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-555555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
@@ -44,9 +43,6 @@
   </a>
   <a href="https://github.com/abhilashshiva" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-abhilashshiva-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="tel:+919030422529">
-    <img src="https://img.shields.io/badge/Phone-+91_9030422529-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 </div>
 
@@ -71,6 +67,7 @@ const abhilash = {
     leadership: "Former Chief Operating Officer (COO) @ MLRIT CIE",
     passions: [
         "Data Engineering & High-Yield Web Scraping",
+        "Interactive Business Dashboards & BI Reporting",
         "Generative AI & LLM Workflow Automation",
         "Root-Cause Diagnostics & Market Intelligence",
         "Full-Stack AI Application Development"
@@ -80,6 +77,7 @@ const abhilash = {
 ```
 
 * 🚀 **Data & AI Engineer** with industry experience turning raw, chaotic data into clean actionable insights and enterprise-grade AI tools.
+* 📊 **Dashboard Builder & BI Specialist:** Architect of interactive, high-impact business intelligence dashboards using **Power BI**, **Tableau**, and **Advanced Excel**. Skilled in translating complex multidimensional datasets into intuitive KPIs, executive drill-down views, and visual stories that drive real-time decision-making.
 * 🔍 **Root-Cause Investigator:** Discovered core market and company bottlenecks in 42 days at **Pulsus Healthtech** using automated data scraping and advanced exploratory diagnostics.
 * 🤖 **Workflow Automator:** Architected custom multi-agent automations utilizing **Claude, Gemini, Grok, and Llama** for enterprise clients across healthcare, retail, and edtech.
 * 🌐 **Full-Lifecycle Builder:** Conceived, coded, and deployed production-grade applications live on the **Google Play Store**, **App Store**, and university campuses.
@@ -99,6 +97,13 @@ const abhilash = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### 📊 Business Intelligence & Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
 </p>
 
 ### 🧠 Data Science, Analytics & Machine Learning
@@ -142,11 +147,12 @@ const abhilash = {
 <a name="featured-projects"></a>
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Status / Deployment | Key Highlights |
+| Project | Tech Stack | Type / Deployment | Key Highlights |
 | :--- | :--- | :--- | :--- |
 | **Food Detecto App** | `React.js` `Bootstrap` `Java` `Python` `Google Cloud` | 📱 [Live on App Store & Play Store](#) | • Conceptualized from an influencer audience-retention need into an active startup.<br>• Built scalable backend pipelines and cross-platform mobile architecture.<br>• Successfully deployed and serving live users. |
 | **EDMIT – Educational Management System** | `React.js` `Node.js` `Supabase` `PostgreSQL` | 🏫 [Live for MLRIT](#) | • Role-based institutional platform eliminating manual campus paperwork.<br>• Digitized end-to-end fee payments, student records, and course registrations.<br>• Secure real-time access controls and audit logging. |
-| **Studport – Placement & Networking Platform** | `PHP` `WordPress` `MySQL` `XAMPP` | 💼 [Live Project](#) | • Centralized placement portal connecting students with hiring recruiters.<br>• Automated resume upload, parsing, and candidate filtering.<br>• Elevated recruitment visibility across academic cohorts. |
+| **Zoho Mail Porter** | `Python` `Zoho API` `OAuth2` `Email Automation` | ⚙️ Automation Tool | • Automated high-throughput mail migration, filtering, and porting pipeline for Zoho Mail environments.<br>• Handles batch processing, rate-limit management, and secure token refresh protocols.<br>• Drastically reduces manual administrative overhead in business email transitions. |
+| **MDPI Mail Collector** | `Python` `Web Scraping` `BeautifulSoup` `Regex` `Pandas` | 🔍 Data Extraction & Pipeline | • Automated data scraping and extraction engine targeting MDPI academic publication repositories.<br>• Identifies, validates, and compiles researcher and author contact directories.<br>• Exports structured, deduplicated datasets for targeted communication and outreach. |
 
 ---
 
@@ -201,10 +207,10 @@ const abhilash = {
 <a name="certifications"></a>
 ## 📜 Honors & Certifications
 
-- 🏅 **CISCO:** Data Analytics Essentials *(Nov 2024)*
-- 🏅 **IBM:** Python for Data Science *(Aug 2023)*
-- ☁️ **Google Cloud:** Cloud Computing Foundations & Generative AI Pathways *(Oct 2023)*
-- ☕ **NPTEL (IIT):** Data Structures and Algorithms with Java *(Jul - Oct 2024)*
+- 🏅 **CISCO:** Data Analytics Essentials
+- 🏅 **IBM:** Python for Data Science
+- ☁️ **Google Cloud:** Cloud Computing Foundations & Generative AI Pathways
+- ☕ **NPTEL (IIT):** Data Structures and Algorithms with Java
 
 ---
 

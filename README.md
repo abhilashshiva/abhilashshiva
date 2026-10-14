@@ -5,17 +5,17 @@
   <img src="assets/header.svg" alt="Bollepalli Abhilash Banner" width="100%" />
 </p>
 
-<!-- DYNAMIC TYPING SVG SUBTITLE -->
+<!-- DYNAMIC TYPING SVG SUBTITLE (Cycles through lines cleanly with no overlap) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=70&lines=Turning+raw+data+into+actionable+intelligence.;Architecting+autonomous+AI+agents+%26+scalable+pipelines.;Building+end-to-end+GenAI+products+that+deliver+impact." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=Turning+raw+data+into+actionable+intelligence.;Architecting+autonomous+AI+agents+%26+scalable+pipelines.;Building+end-to-end+GenAI+products+that+deliver+impact." alt="Typing SVG" />
   </a>
 </div>
 
-<!-- QUICK NAV & STATUS BADGES -->
+<br/>
+
+<!-- QUICK NAV -->
 <p align="center">
-  <code>Abhilash@GitHub:~$ cat README.md</code>
-  <br/><br/>
   <a href="#about-me"><b>About</b></a> • 
   <a href="#tech-stack"><b>Tech Stack</b></a> • 
   <a href="#featured-projects"><b>Projects</b></a> • 
